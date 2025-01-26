@@ -308,7 +308,7 @@ form input,form textarea{
   width: 100%;
   border: 0;
   outline: none;
-  background: #262626;
+  background: #afafaf;
   padding: 15px;
   margin: 15px 0;
   color: #fff;
@@ -341,7 +341,7 @@ nav .fa-solid {
 
 @media only screen and (max-width: 600px) {
   #header {
-    background-image: url(/images/phone-background.jpg); /* Update background for small screens */
+    background-image: url(https://danush-s12.github.io/portfolio-website/background.jpg); /* Update background for small screens */
   }
 
   .header-text {
