@@ -8,14 +8,14 @@ html{
   scroll-behavior: smooth;
 }
 body{
-  background-color: #080808;
+  background-color: #ffbe3e;
   color: #fff;
 
 }
 #header{
   width: 100%;
   height: 100vh;
-  background-image: url(images/background.avif) ;
+  background-image: url(https://danush-s12.github.io/portfolio-website/background.jpg) ;
   background-size: cover;
   background-position: center;
 }
@@ -56,7 +56,7 @@ nav ul li a::after{
   content: '';
   width: 0;
   height: 3px;
-  background: #ff004f;
+  background: #ffbe3e;
   position: absolute;
   left: 0;
   bottom: -6px;
