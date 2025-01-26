@@ -29,10 +29,10 @@ nav{
   flex-wrap: wrap;
 }
 .logo {
-  font-size: 30px; /* Adjust font size */
+  font-size: 35px; /* Adjust font size */
   font-weight: bold; /* Bold text */
   font-family: 'Arial', sans-serif; /* Font style */
-  color: rgb(8, 7, 7); /* Default color for the text */
+  color: rgb(214, 17, 17); /* Default color for the text */
 }
 
 .logo::first-letter {
@@ -73,7 +73,7 @@ nav ul li a:hover::after{
 .header-text h1{
   font-size: 60px;
   margin-top: 20px;
-  color: #080808;
+  color: #cccccc;
 }
 .header-text p{
   color:black;
