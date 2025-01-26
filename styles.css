@@ -8,7 +8,7 @@ html{
   scroll-behavior: smooth;
 }
 body{
-  background-color: #ffbe3e;
+  background-color: #abdcff;
   color: #fff;
 
 }
@@ -73,7 +73,7 @@ nav ul li a:hover::after{
 .header-text h1{
   font-size: 60px;
   margin-top: 20px;
-  color: #cccccc;
+  color: #080808;
 }
 .header-text p{
   color:black;
